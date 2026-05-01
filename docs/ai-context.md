@@ -1,8 +1,8 @@
 # AI Context — Lotus Sutra Mini Site
 
 **Project:** Lotus Sutra (妙法莲华经) interactive reading site
-**Status:** Active — all 28 chapters complete
-**Last updated:** 2026-04-14
+**Status:** Active — all 28 chapters complete, full annotation coverage verified
+**Last updated:** 2026-05-01
 **Part of:** DharmaGate portal (https://lugh3456.github.io/DharmaGate/)
 **Live URL:** https://lugh3456.github.io/LotusSutra/
 
@@ -41,7 +41,7 @@ Every `sectionN.html` follows this exact pattern:
 ```
 portal-bar → header (h1 + nav) → main:
   full-text section (Chinese text + TTS button)
-  line-explanation section (4 × explanation-card)
+  line-explanation section (variable number of explanation-cards — now fully covering all source-text lines)
   summary section (Chinese + English toggle)
 footer
 ```

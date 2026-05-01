@@ -34,6 +34,12 @@
 - [x] `section28.html` — 普贤菩萨劝发品
 - [x] `docs/` folder (5 files)
 - [x] DharmaGate portal card activated (link + badge removed)
+- [x] Full annotation coverage audit run across all 28 chapters (2026-05-01)
+- [x] ~120 missing explanation cards added across all 28 chapters — every source-text line now has at least one card
+- [x] Section 2 card order fixed (「一切声闻、辟支佛所不能知」moved to correct position)
+- [x] Section 16 card order fixed (「我常住于此」moved to correct position) and broken HTML structure repaired
+- [x] Section 24 out-of-order flag resolved
+- [x] All 28 chapters pass content audit with zero issues
 
 ## Possible future work
 
